@@ -14,6 +14,7 @@ export default function ImagePicker({ label, name }) {
     if (!file) {
       return;
     }
+    // preview
     const fileReader = new FileReader();
     fileReader.onload = () => {
       setPickedImage(fileReader.result);
