@@ -1,5 +1,5 @@
 
-🍽️ Welcome to FoodieFavs!
+🍽️ Welcome to foodies!
 
 FoodieFavs is a platform where you can share and explore your favorite foods with the world! 🌎
 
